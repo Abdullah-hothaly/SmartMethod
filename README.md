@@ -1,2 +1,0 @@
-# SmartMethod
-5ServoCircuit
